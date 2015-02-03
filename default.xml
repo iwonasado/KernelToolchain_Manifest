@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote  name="hyper"
+           fetch="https://github.com/hyper-toolchains/" />
+  
+  <default remote="hyper" revision="master" />
+
+  <project path="SaberNaro" name="SaberNaro-arm-eabi-4.9" />
+  <project path="LinaroMod" name="LinaroMod-arm-eabi-4.9" />
+  <project path="Linaro" name="linaro-arm-eabi-4.9" />
+</manifest>
